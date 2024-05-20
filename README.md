@@ -1,1 +1,10 @@
-# appointment-system
+"# Appointment System" 
+"This is a Django-based appointment system application." 
+"## Features" 
+"- User authentication" 
+"- Appointment booking" 
+"- Admin panel" 
+"## Setup" 
+"1. Clone the repository: \`git clone https://github.com/ayush27072021/appointment-system.git\`" 
+"2. Install dependencies: \`pip install -r requirements.txt\`" 
+"3. Run the application: \`python manage.py runserver\`" 
