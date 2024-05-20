@@ -1,0 +1,28 @@
+# Other dependencies
+awsebcli==3.20.10
+botocore==1.31.85
+cement==2.8.2
+certifi==2024.2.2
+charset-normalizer==3.3.2
+colorama==0.4.3
+idna==3.7
+jmespath==1.0.1
+pathspec==0.10.1
+pypiwin32==223
+python-dateutil==2.9.0.post0
+PyYAML==6.0.1
+requests==2.31.0
+semantic-version==2.8.5
+six==1.16.0
+termcolor==1.1.0
+urllib3==1.26.18
+wcwidth==0.1.9
+Django>=3.2
+djangorestframework
+dj-database-url
+gunicorn
+psycopg2-binary
+whitenoise
+
+# pywin32 only for Windows
+pywin32==306; platform_system  "Windows"
